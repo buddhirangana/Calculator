@@ -1,2 +1,2 @@
 # Calculator
-This is Simple Calculator develop using java. 
+<img src="https://github.com/buddhirangana/Calculator/blob/main/images/Screenshot.PNG" alt="Screenshot"/> 
